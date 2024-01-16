@@ -64,7 +64,7 @@ body {
     width: 100%;
     height: 275px;
     position: relative;
-    background-image: url(/Images/fashion.png);
+    background-image: url(/fashion.png);
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
   }
@@ -117,8 +117,8 @@ body {
     transform: scaleY(1);
   }
   .card:nth-of-type(2) .card-image {
-    background-image: url(/Images/ahuja.png)}
+    background-image: url(/ahuja.png)}
   .card:nth-of-type(3) .card-image {
-    background-image: url(/Images/incense.png)}
+    background-image: url(/incense.png)}
   .card:nth-of-type(4) .card-image {
-    background-image: url(/Images/goyam.png)}
+    background-image: url(/goyam.png)}
